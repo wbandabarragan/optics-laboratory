@@ -6,7 +6,7 @@
 Wladimir Banda Barragán
 
 ## Course description:
-This course provides an introduction to basic optics. It describes lens laws and the setup needed to construct some optical instruments, such as microscopes and telescopes. The course shows the experimental setups with the assistance of the ray-optics applet from phydemo. This applet was very useful for teaching during the COVID-19 pandemic.
+This course provides engineering students with an introduction to basic optics and lens systems. It describes lens laws and the experimental setups needed to construct some optical instruments used in science, such as microscopes and telescopes. The course explain the theory and shows the experimental setups with the assistance of the ray-optics applet from phydemo. This applet was very useful for teaching during the COVID-19 pandemic.
 
 ## Syllabus:
 
