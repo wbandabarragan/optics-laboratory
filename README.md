@@ -12,3 +12,9 @@ This course provides an introduction to basic methods and techniques used in com
 
 - Error propagation
 - Lens laws
+
+## Optics Design Applet: 
+
+For some of the excercises we will use this applet:
+
+https://phydemo.app/ray-optics/simulator/
