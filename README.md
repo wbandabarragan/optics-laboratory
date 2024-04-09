@@ -6,7 +6,7 @@
 Wladimir Banda Barragán
 
 ## Course description:
-This course provides an introduction to basic methods and techniques used in computational physics as well as an overview of recent progress made in several areas of scientific computing. The course describes basic concepts of object-oriented programming and includes detailed step-by-step examples of how to optimally utilise computers and programming languages to solve problems in physics. Topics range from data analysis and approximation and optimisation of functions, through numerical calculus and differential equations, to matrix operations and spectral analysis. Each section of the course includes practical examples on different areas of science and technology in which computational physics has played a major role in the last decade.
+This course provides an introduction to basic optics. It describes lens laws and the setup needed to construct some optical instruments, such as microscopes and telescopes. The course shows the experimental setups with the assistance of the ray-optics applet from phydemo. This applet was very useful for teaching during the COVID-19 pandemic.
 
 ## Syllabus:
 
