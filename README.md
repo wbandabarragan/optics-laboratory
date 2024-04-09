@@ -20,7 +20,3 @@ This course provides engineering students with an introduction to basic optics a
 For some of the excercises we will use this applet:
 
 https://phydemo.app/ray-optics/simulator/
-
-## Acknowledgements:
-
-The material and lecture notes presented here are based on lectures delivered by former TUHH instructors.
