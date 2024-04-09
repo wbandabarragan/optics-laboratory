@@ -10,11 +10,17 @@ This course provides engineering students with an introduction to basic optics a
 
 ## Syllabus:
 
-- Error propagation
-- Lens laws
+- Error Calculation and Propagation. Regression analysis.
+- Optics, Lenses and Lens laws.
+- Focal Length and Bessel Method (lens systems).
+- Optical instruments (slide projector, microscope, telescope)
 
 ## Optics Design Applet: 
 
 For some of the excercises we will use this applet:
 
 https://phydemo.app/ray-optics/simulator/
+
+## Acknowledgements:
+
+The material and lecture notes presented here are based on lectures delivered by former TUHH instructors.
