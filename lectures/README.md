@@ -1,4 +1,4 @@
-# Optics Lecture
+# Optics Lectures
 
 The following is the list of lectures delivered as part of this course:
 
