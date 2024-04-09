@@ -1,6 +1,6 @@
 # Optics Laboratory
 
-## Universität Hamburg 
+## Universität Hamburg (2020-2021)
 
 ## Instructor:
 Wladimir Banda Barragán
